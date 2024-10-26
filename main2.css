@@ -1,0 +1,11 @@
+body {
+  background-color: #f0f0f0; /* ডিফল্ট ব্যাকগ্রাউন্ড রঙ */
+}
+
+.red-background {
+  background-color: red;
+}
+
+.blue-background {
+  background-color: blue;
+}
